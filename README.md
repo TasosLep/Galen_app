@@ -2,9 +2,9 @@
 
 Galen Wristband
 --
-galen_stable.apk
+Download the "galen_stable.apk" file
 
 
 Galen Ring
 -- 
-galen_ring_stable.apk
+Download the "galen_ring_stable.apk" file
