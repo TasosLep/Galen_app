@@ -3,7 +3,7 @@
 ## Galen Application
 
 ### ◉ Galen Wristband
-Download the "galen_stable.apk" file.
+Download the "galen_wristband_stable.apk" file.
 
 
 ### ◉ Galen Ring
