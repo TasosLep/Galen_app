@@ -3,11 +3,11 @@
 ## Galen Application
 
 ### ◉ Galen Wristband
-Download the "galen_wristband_stable.apk" file.
+Download the "galen_wristband_deepblue_stable.apk" file.
 
 
 ### ◉ Galen Ring
-Download the "galen_ring_stable.apk" file.
+Download the "galen_ring_deepblue_stable.apk" file.
 
 ## Platform
 
