@@ -1,5 +1,10 @@
 # Deepblue AI
 
+## OrionX Application
+
+### ◉ OrionX Ring
+Download the "OrionX_v1_2.apk" file.
+
 ## Galen Application
 
 ### ◉ Galen Wristband
