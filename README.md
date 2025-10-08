@@ -1,15 +1,22 @@
 # Deepblue AI
 
-## OrionX Application
+## OrionX Applications
 
-### ◉ OrionX Ring
+### ◉ OrionX Ring - Android
 Download the "OrionX_v1_3.apk" file.
 
-## Galen Application
+### ◉ OrionX Ring - iOS
 
-### ◉ Galen Wristband
+Under development.
+
+## Galen Applications
+
+### ◉ Galen Wristband - Android
 Download the "galen_wristband_deepblue_stable.apk" file.
 
+### ◉ Galen Wristband - iOS
+
+Under development.
 
 ### ◉ Galen Ring
 Download the "galen_ring_deepblue_stable.apk" file.
